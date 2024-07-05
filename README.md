@@ -10,3 +10,6 @@
 
 Cheers! 🥂
 Franz
+
+This a forked project -> franznkemaka/notion-empty-trash
+Working on  Notion 2.42.23.13.0.306
